@@ -9,3 +9,51 @@ output:
 
 
 This course is an application-driven introduction to data science. Statistical and computational tools are valued throughout the modern workplace from Silicon Valley startups, to marine biology labs, to Wall Street firms. These tools require technical skills such as programming and statistics. They also require professional skills such as communication, teamwork, problem solving, and critical thinking.
+
+
+- Instructor: [Robin Cunningham](http://stat-or.unc.edu/people/faculty/robin-cunningham)
+
+- Instructional Assistant: [Adam Waterbury](http://stat-or.unc.edu/people/graduate-students-department)
+
+- Graduate Research Consultant: [Varun Goel](https://varungoel.web.unc.edu/)
+
+See the **[course syllabus](https://drive.google.com/open?id=0B2lwGKhIFjYYYVh5NVVsZVJjbmM)** for more information. 
+
+# **Course Material**
+
+
+| Date | Lecture | Slides | Notes & HW |
+|------|---------|-------|-------|
+|August 23 |Course Overview, Install R | [Lecture 1](https://www.dropbox.com/s/onli0k3vl1v6bmu/STOR%20320%20Lecture%201%2008-23-17.pptx?dl=0) | [R Downloads](http://rpubs.com/redrobincl/299923)|
+
+
+- the datasets use in the class are on [data.world](https://data.world/iain/stor-390/) and [github](https://github.com/idc9/stor390/tree/master/data/)
+
+- all of the course material is on the [github repo](https://github.com/idc9/stor390) including
+    - [.Rmd files](https://github.com/idc9/stor390/tree/master/notes/) for the notes 
+    - [example code](https://github.com/idc9/stor390/tree/master/example_code/) are also on github
+
+
+- most of the course material is in the lecture notes (linked to above) and reading. 
+
+
+
+# **Reading**
+
+Readings should be complete by the following class. There are two (free) primary references:
+
+- [R for Data Science](http://r4ds.had.co.nz/) (r4ds)
+- [R Programming for Data Science](https://leanpub.com/rprogramming) (RPDS)
+
+**August 22**
+
+- Work through [getting started notes](http://rpubs.com/redrobincl/299923). We will discuss it as necessary at our next meeting, but you should have R and Rstudio installed and have attempted to run the code in this document.
+- Read before next class: [The Introduction to R4DS](http://r4ds.had.co.nz/introduction.html)
+
+# **Additional resources**
+
+# **Miscellaneous**
+
+This course was made possible by a grant from the [Data@Carolina](http://data.web.unc.edu/) initiative and a ton of [**input from lots of very smart people**](https://docs.google.com/document/d/1EAIiex92oKphCeBAtmJ9NOyKti76QDsC5lz7vbL7Gwo/edit).
+
+This page was last updated on `r Sys.time()` Eastern Time.
