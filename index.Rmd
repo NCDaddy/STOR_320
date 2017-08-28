@@ -26,6 +26,7 @@ See the **[course syllabus](https://drive.google.com/open?id=0B2lwGKhIFjYYYVh5NV
 |------|---------|-------|-------|
 |August 23 |Course Overview, Install R | [Lecture 1](https://www.dropbox.com/s/onli0k3vl1v6bmu/STOR%20320%20Lecture%201%2008-23-17.pptx?dl=0) | [R Downloads](http://rpubs.com/redrobincl/299923)|
 |August 25 |Visualization and ggplot2 | [Lecture 2](https://www.dropbox.com/s/3kewdkom4r7ht5e/STOR%20320%20Lecture%202%2008-25-17.pptx?dl=0) | [Homework 1](http://rpubs.com/redrobincl/301780)|
+|August 28 |ggplot Wrap-up and Workflow Basics| [Lecture 3](https://www.dropbox.com/s/403yr1vxniw7ave/STOR%20320%20Lecture%203%2008-28-17.pptx?dl=0) | |
 
 - the datasets use in the class are on [data.world](https://data.world/iain/stor-390/) and [github](https://github.com/idc9/stor390/tree/master/data/)
 
