@@ -28,7 +28,7 @@ See the **[course syllabus](https://drive.google.com/open?id=0B2lwGKhIFjYYYVh5NV
 |August 25 |Visualization and ggplot2 | [Lecture 2](https://www.dropbox.com/s/3kewdkom4r7ht5e/STOR%20320%20Lecture%202%2008-25-17.pptx?dl=0) | [Homework 1](http://rpubs.com/redrobincl/301780)|
 |August 28 | ggplot Wrap-up and Workflow Basics| [Lecture 3](https://www.dropbox.com/s/403yr1vxniw7ave/STOR%20320%20Lecture%203%2008-28-17.pptx?dl=0) | [Reading for 8-28](http://rpubs.com/redrobincl/302494)|
 |August 30 | Data Transformations with Dplyr| [Lecture 4](https://www.dropbox.com/s/2so7c7nr4pc9cwb/STOR%20320%20Lecture%204%2008-30-17.pptx?dl=0) | [Homework for 8-30](http://rpubs.com/redrobincl/302710)|
-|Sept. 1 | Data Transformations with Dplyr| [Class Activity](https://www.dropbox.com/s/knonga5b5dzlu0h/STOR%20320%20%E2%80%93%20Class%20Activity%20090117.docx?dl=0) | [Dead Link for Now]()|
+|Sept. 1 | Data Transformations with Dplyr| [Class Activity](https://www.dropbox.com/s/knonga5b5dzlu0h/STOR%20320%20%E2%80%93%20Class%20Activity%20090117.docx?dl=0) | [Homework for Sept 1](http://rpubs.com/redrobincl/303670)|
 
 - the datasets use in the class are on [data.world](https://data.world/iain/stor-390/) and [github](https://github.com/idc9/stor390/tree/master/data/)
 
