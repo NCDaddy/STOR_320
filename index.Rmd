@@ -34,6 +34,11 @@ See the **[course syllabus](https://drive.google.com/open?id=0B2lwGKhIFjYYYVh5NV
 |Sept. 11 | Exploratory Data Analysis| [Lecture 6 ](https://www.dropbox.com/s/6vjlvmvi39v79oj/STOR%20320%20Lecture%206%2009-14-17.pptx?dl=0) | |
 |Sept. 13 | Exploratory Data Analysis| [Lecture 7 ](https://www.dropbox.com/s/wmvimtcx3y35l8k/STOR%20320%20Lecture%207%2009-13-17.pptx?dl=0) |[Homework](http://rpubs.com/redrobincl/307274) |
 |Sept. 15 | Tibbles and R Projects| [Class Activity ](http://rpubs.com/redrobincl/307978) |[Activity as .rmd](https://www.dropbox.com/s/h5huqubm36052bo/September%2015%20Class%20activity.Rmd?dl=0) |
+|Sept. 15 | Tibbles and R Projects| [Lecture 9 ](https://www.dropbox.com/s/gsscenxrw4ken4c/STOR%20320%20Lecture%209%2009-18-17.pptx?dl=0) |[heights.csv](https://www.dropbox.com/s/bjvbfman7i7qhu2/heights.csv?dl=0) |
+
+
+
+
 
 - the datasets use in the class are on [data.world](https://data.world/iain/stor-390/) and [github](https://github.com/idc9/stor390/tree/master/data/)
 
