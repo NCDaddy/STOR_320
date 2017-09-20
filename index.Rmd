@@ -35,6 +35,7 @@ See the **[course syllabus](https://drive.google.com/open?id=0B2lwGKhIFjYYYVh5NV
 |Sept. 13 | Exploratory Data Analysis| [Lecture 7 ](https://www.dropbox.com/s/wmvimtcx3y35l8k/STOR%20320%20Lecture%207%2009-13-17.pptx?dl=0) |[Homework](http://rpubs.com/redrobincl/307274) |
 |Sept. 15 | Tibbles and R Projects| [Class Activity ](http://rpubs.com/redrobincl/307978) |[Activity as .rmd](https://www.dropbox.com/s/h5huqubm36052bo/September%2015%20Class%20activity.Rmd?dl=0) |
 |Sept. 18 | Importing Data| [Lecture 9 ](https://www.dropbox.com/s/gsscenxrw4ken4c/STOR%20320%20Lecture%209%2009-18-17.pptx?dl=0) |[heights.csv](https://www.dropbox.com/s/bjvbfman7i7qhu2/heights.csv?dl=0) |
+|Sept. 20 | Tidy Data| [Lecture 10 ](https://www.dropbox.com/s/hqjoiosey01jibs/STOR%20320%20Lecture%2010%2009-20-17.pptx?dl=0) |[MOMA_art.csv](https://drive.google.com/open?id=0B2lwGKhIFjYYb0NMSF92dTVGQ3c)  [MOMA_artists.csv](https://drive.google.com/open?id=0B2lwGKhIFjYYRktDeWtvWHcta3M) |
 
 
 
