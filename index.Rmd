@@ -38,8 +38,8 @@ See the **[course syllabus](https://drive.google.com/open?id=0B2lwGKhIFjYYYVh5NV
 |Sept. 20 | Tidy Data| [Lecture 10 ](https://www.dropbox.com/s/hqjoiosey01jibs/STOR%20320%20Lecture%2010%2009-20-17.pptx?dl=0) |[MOMA_art.csv](https://drive.google.com/open?id=0B2lwGKhIFjYYb0NMSF92dTVGQ3c)  [MOMA_artists.csv](https://drive.google.com/open?id=0B2lwGKhIFjYYRktDeWtvWHcta3M) |
 |Sept. 22 | Tidy Data --> Joins| [Lecture 11 ](https://idc9.github.io/stor390/slides/joins.pdf) |[Joins Homework](https://www.dropbox.com/s/6ew8e0jud3tabsq/joins_lab.Rmd?dl=0) |
 |Sept. 25 | Tidy Data - Wrap-up| [Lecture 10 Redux ](https://www.dropbox.com/s/hqjoiosey01jibs/STOR%20320%20Lecture%2010%2009-20-17.pptx?dl=0) |[HW Due Weds.](https://www.dropbox.com/s/6vw4oo6v0cd7zgw/Homework%20Assigned%20Sept%2025%20.Rmd?dl=0) [Script last class](https://www.dropbox.com/s/37dk92fqnkagnq1/Commands_from_Wed_920.R?dl=0)| 
-|Sept. 27 | Struggling with Strings| [Notes ](https://www.dropbox.com/s/43iu67q9iy08x1w/Regex_notes.Rmd?dl=0) |[Slides_______](https://www.dropbox.com/s/2o87qjlm9t2qwew/regex_slides.html?dl=0)     [HW for Friday](http://rpubs.com/redrobincl/312852)| 
-
+|Sept. 27 | Owning Strings| [Notes ](https://www.dropbox.com/s/43iu67q9iy08x1w/Regex_notes.Rmd?dl=0) |[Slides_______](https://www.dropbox.com/s/2o87qjlm9t2qwew/regex_slides.html?dl=0)     [HW for Friday](http://rpubs.com/redrobincl/312852)| 
+|Sept. 27 | Owning Strings| [Slides as Rmd](https://www.dropbox.com/s/b7pdmt2cvlhyo9f/regex_slides.Rmd?dl=0) |[Data Analysis 2](http://rpubs.com/redrobincl/313107)| 
 
 
 
