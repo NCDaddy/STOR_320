@@ -41,7 +41,7 @@ See the **[course syllabus](https://drive.google.com/open?id=0B2lwGKhIFjYYYVh5NV
 |Sept. 27 | Owning Strings| [Notes ](https://www.dropbox.com/s/43iu67q9iy08x1w/Regex_notes.Rmd?dl=0) |[Slides_______](https://www.dropbox.com/s/2o87qjlm9t2qwew/regex_slides.html?dl=0)     [HW for Friday](http://rpubs.com/redrobincl/312852)| 
 |Sept. 29 | Owning Strings| [Slides as Rmd](https://www.dropbox.com/s/b7pdmt2cvlhyo9f/regex_slides.Rmd?dl=0) |[Data Analysis 2](http://rpubs.com/redrobincl/313107)|
 |Oct. 2 | Factors| [Slides Lecture 12 ](https://www.dropbox.com/s/3c8naqpeky1yaxk/STOR%20320%20Lecture%2012%2010-02-17.pptx?dl=0) || 
-|Oct. 4 | Programming and Vectors| [Notes L13](http://rpubs.com/redrobincl/314665) |[Slides](http://rpubs.com/redrobincl/314972)|
+|Oct. 4 | Programming and Vectors| [Notes L13](http://rpubs.com/redrobincl/314665) |[Slides](http://rpubs.com/redrobincl/315843)|
 |Oct. 6 | Programming Lab| [Lab](http://rpubs.com/redrobincl/315815) ||
 
 
