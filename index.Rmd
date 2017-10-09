@@ -43,6 +43,7 @@ See the **[course syllabus](https://drive.google.com/open?id=0B2lwGKhIFjYYYVh5NV
 |Oct. 2 | Factors| [Slides Lecture 12 ](https://www.dropbox.com/s/3c8naqpeky1yaxk/STOR%20320%20Lecture%2012%2010-02-17.pptx?dl=0) || 
 |Oct. 4 | Programming and Vectors| [Notes L13](http://rpubs.com/redrobincl/314665) |[Slides](http://rpubs.com/redrobincl/315843)|
 |Oct. 6 | Programming Lab| [Lab](http://rpubs.com/redrobincl/315815) ||
+|Oct. 9 | Lists and Loops| [Slides](https://www.dropbox.com/s/d3tvv925un6adla/STOR%20320%20Lecture%2014%2010-09-17.pptx?dl=0) |[HW](https://www.dropbox.com/s/vpebg17uampf706/HW%20for%20Lecture%2014.pptx?dl=0)|
 
 
 
