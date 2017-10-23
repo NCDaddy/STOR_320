@@ -47,7 +47,7 @@ See the **[course syllabus](https://drive.google.com/open?id=0B2lwGKhIFjYYYVh5NV
 |Oct. 11 | Lists and Loops|[Slides](https://www.dropbox.com/s/d3tvv925un6adla/STOR%20320%20Lecture%2014%2010-09-17.pptx?dl=0) |[Loops HW](http://rpubs.com/redrobincl/316969)|
 |Oct. 13 | Intro to Models|[Slides](https://www.dropbox.com/s/svh1yb2cvkgwdz0/STOR%20320%20Lecture%2015%2010-13-17.pptx?dl=0) |[Reading](http://rpubs.com/redrobincl/318157)|
 |Oct. 16 | Intro to Models|[Slides](https://www.dropbox.com/s/svh1yb2cvkgwdz0/STOR%20320%20Lecture%2015%2010-13-17.pptx?dl=0) |[HW Due 10-23](http://rpubs.com/redrobincl/319124)|
-|Oct. 23 | Intro to Shiny|[Shiny Notes](http://rpubs.com/redrobincl/321857) [Shiny Rmd](https://www.dropbox.com/s/6ndqep5kresuolo/shiny.Rmd?dl=0) |[Apps for Class](https://github.com/francestong/stor390/tree/master/stor320_shiny/beer2burpees_example)|
+|Oct. 23 | Intro to Shiny|[Shiny Notes](http://rpubs.com/redrobincl/321857) [Shiny Rmd](https://www.dropbox.com/s/6ndqep5kresuolo/shiny.Rmd?dl=0) |[Apps for Class](https://www.dropbox.com/s/ba3zzm8sny8tuge/beer2burpees.zip?dl=0)|
 
  
 
