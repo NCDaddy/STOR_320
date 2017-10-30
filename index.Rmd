@@ -49,8 +49,8 @@ See the **[course syllabus](https://drive.google.com/open?id=0B2lwGKhIFjYYYVh5NV
 |Oct. 16 | Intro to Models|[Slides](https://www.dropbox.com/s/svh1yb2cvkgwdz0/STOR%20320%20Lecture%2015%2010-13-17.pptx?dl=0) |[HW Due 10-23](http://rpubs.com/redrobincl/319124)|
 |Oct. 23 | Intro to Shiny|[Shiny Notes](http://rpubs.com/redrobincl/321857) [Shiny Rmd](https://www.dropbox.com/s/6ndqep5kresuolo/shiny.Rmd?dl=0) |[Apps for Class](https://www.dropbox.com/s/ba3zzm8sny8tuge/beer2burpees.zip?dl=0)|
 |Oct. 25 | Data Ethics|[Lecture](https://drive.google.com/open?id=0B2lwGKhIFjYYbVhrcUE5TnJzYTQ)|[data privacy](http://erichorvitz.com/data_privacy_greater_good.pdf)   [_____NYT Uber](https://www.nytimes.com/2017/04/24/technology/personal-data-firm-slice-unroll-me-backlash-uber.html?hp&action=click&pgtype=Homepage&clickSource=story-heading&module=second-column-region&region=top-news&WT.nav=top-news&_r=0) [Oneill Big Data](https://qz.com/819245/data-scientist-cathy-oneil-on-the-cold-destructiveness-of-big-data/)|
-|Oct. 27 | Visualizing Models|[Lecture](https://www.dropbox.com/s/6ut8ki4eynur9ui/STOR%20320%20Lecture%2018%2010-27-17.pptx?dl=0)|[Final Proj Gps](https://www.dropbox.com/s/ukmsxet3gcfkdtl/Final%20Project%20Groups.xls?dl=0) [Final Project](https://www.dropbox.com/s/8i8u8tvla68stpm/description.Rmd?dl=0)  
-
+|Oct. 27 | Visualizing Models|[Lecture](https://www.dropbox.com/s/6ut8ki4eynur9ui/STOR%20320%20Lecture%2018%2010-27-17.pptx?dl=0)|[Final Proj Gps](https://www.dropbox.com/s/ukmsxet3gcfkdtl/Final%20Project%20Groups.xls?dl=0) [Final Project](https://www.dropbox.com/s/8i8u8tvla68stpm/description.Rmd?dl=0)| 
+|Oct. 30 | Visualizing Models|[Lecture](https://www.dropbox.com/s/6ut8ki4eynur9ui/STOR%20320%20Lecture%2018%2010-27-17.pptx?dl=0)||
  
 
 
