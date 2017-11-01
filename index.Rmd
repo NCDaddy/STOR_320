@@ -51,7 +51,7 @@ See the **[course syllabus](https://drive.google.com/open?id=0B2lwGKhIFjYYYVh5NV
 |Oct. 25 | Data Ethics|[Lecture](https://drive.google.com/open?id=0B2lwGKhIFjYYbVhrcUE5TnJzYTQ)|[data privacy](http://erichorvitz.com/data_privacy_greater_good.pdf)   [_____NYT Uber](https://www.nytimes.com/2017/04/24/technology/personal-data-firm-slice-unroll-me-backlash-uber.html?hp&action=click&pgtype=Homepage&clickSource=story-heading&module=second-column-region&region=top-news&WT.nav=top-news&_r=0) [Oneill Big Data](https://qz.com/819245/data-scientist-cathy-oneil-on-the-cold-destructiveness-of-big-data/)|
 |Oct. 27 | Visualizing Models|[Lecture](https://www.dropbox.com/s/6ut8ki4eynur9ui/STOR%20320%20Lecture%2018%2010-27-17.pptx?dl=0)|[Final Proj Gps](https://www.dropbox.com/s/ukmsxet3gcfkdtl/Final%20Project%20Groups.xls?dl=0) [Final Project](https://www.dropbox.com/s/8i8u8tvla68stpm/description.Rmd?dl=0)| 
 |Oct. 30 | Visualizing Models|[Lecture](https://www.dropbox.com/s/6ut8ki4eynur9ui/STOR%20320%20Lecture%2018%2010-27-17.pptx?dl=0)||
- 
+|Nov. 01 | Visualizing Models|[Commands](https://www.dropbox.com/s/ogtcr2e2k4wgfxk/Class%20Commands%20to%20Start%2011-1-17.R?dl=0)|[Homework](http://rpubs.com/redrobincl/325417)|
 
 
 - most of the course material is in the lecture notes (linked to above) and reading. 
