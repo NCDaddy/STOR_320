@@ -55,7 +55,7 @@ See the **[course syllabus](https://drive.google.com/open?id=0B2lwGKhIFjYYYVh5NV
 |Nov. 03 | Interaction (ctd)|[Lecture](https://www.dropbox.com/s/a3uwyj0tsiulq0d/STOR%20320%20Lecture%2018%2011-3-17.pptx?dl=0)||
 |Nov. 06 | Modeling Real Data  |[Activity](https://www.dropbox.com/s/jovc3qvihsbrjnh/STOR%20320%20%E2%80%93%20Diamond%20Activity%20110517.docx?dl=0)||
 |Nov. 10 | Predictive Modeling |[Lecture](https://www.dropbox.com/s/gjnryjbicguu6vt/predictive_modeling.Rmd?dl=0)|[Project Exp An](https://www.dropbox.com/s/q1kzmyvbghvycq2/exploratory_analysis.Rmd?dl=0) [Data Analysis 3](https://www.dropbox.com/s/u50jdu4bsltiy9d/bike_sharing.Rmd?dl=0)|
-|Nov. 10 | Get an A on the Project |[Lecture](https://www.dropbox.com/s/0umu2lhlh8gp7u2/communication.key?dl=0)|[Lecture as ppt](https://www.dropbox.com/s/qvupk35xpdj7vo2/communication.pptx?dl=0)|
+|Nov. 13 | Get an A on the Project |[Lecture](https://www.dropbox.com/s/0umu2lhlh8gp7u2/communication.key?dl=0)|[Lecture as ppt](https://www.dropbox.com/s/qvupk35xpdj7vo2/communication.pptx?dl=0)|
 
 - most of the course material is in the lecture notes (linked to above) and reading. 
 
