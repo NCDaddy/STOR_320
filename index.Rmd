@@ -57,6 +57,7 @@ See the **[course syllabus](https://drive.google.com/open?id=0B2lwGKhIFjYYYVh5NV
 |Nov. 10 | Predictive Modeling |[Lecture](https://www.dropbox.com/s/gjnryjbicguu6vt/predictive_modeling.Rmd?dl=0)|[Project Exp An](https://www.dropbox.com/s/q1kzmyvbghvycq2/exploratory_analysis.Rmd?dl=0) [Data Analysis 3](https://www.dropbox.com/s/u50jdu4bsltiy9d/bike_sharing.Rmd?dl=0)|
 |Nov. 13 | Get an A on the Project |[Lecture](https://www.dropbox.com/s/0umu2lhlh8gp7u2/communication.key?dl=0)|[Lecture as ppt](https://www.dropbox.com/s/qvupk35xpdj7vo2/communication.pptx?dl=0)|
 |Nov. 15 | Classification |[Slides](https://www.dropbox.com/s/vhe5qmad23aawab/slides_classification_md_knn.Rmd?dl=0)|[Everything](https://www.dropbox.com/s/n0qobdswnsrvmse/classification.zip?dl=0)|
+|Nov. 20 | Donner Destiny |[Slides](https://www.dropbox.com/s/v5240dew6iif2n7/Donner_Party.Rmd?dl=0)|[Classification Folder   ](https://www.dropbox.com/s/z8ao35ggv2yp2af/classification.zip?dl=0)   [Classification Activity](https://www.dropbox.com/s/d59z1uw6xtzuykr/STOR%20320%20%E2%80%93%20Classification%20Activity%20112017.docx?dl=0)|
 
 - most of the course material is in the lecture notes (linked to above) and reading. 
 
